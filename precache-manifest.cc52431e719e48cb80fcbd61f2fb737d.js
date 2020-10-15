@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "085b66f18c46a18319919b35625da863",
+    "revision": "6de1b81aef7e6cfd753cf230d96c4d8f",
     "url": "/polestar/index.html"
   },
   {
-    "revision": "be866a36d6961d72d576",
-    "url": "/polestar/static/css/main.c6264bea.chunk.css"
+    "revision": "e7a3b2d3a6f72514382c",
+    "url": "/polestar/static/css/main.832d0ceb.chunk.css"
   },
   {
     "revision": "c41fdc7a2be8a72d89cd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polestar/static/js/2.d1d2d758.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be866a36d6961d72d576",
-    "url": "/polestar/static/js/main.e713a981.chunk.js"
+    "revision": "e7a3b2d3a6f72514382c",
+    "url": "/polestar/static/js/main.4a391a5a.chunk.js"
   },
   {
     "revision": "9878b9566039b95e9958",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polestar/static/media/logo.b0ca121c.webp"
   },
   {
-    "revision": "d403204f8a6c1874bbb1ca186b992aa0",
-    "url": "/polestar/static/media/pic1-mobile.d403204f.webp"
+    "revision": "3bdf1a28b00ac80d82db3f3f6bca4836",
+    "url": "/polestar/static/media/pic1-mobile.3bdf1a28.webp"
   },
   {
     "revision": "7a884debed339eab4ca1a4da9b4edc6b",

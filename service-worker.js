@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/polestar/precache-manifest.eb01d9c38b0b02305e180301516163b5.js"
+  "/polestar/precache-manifest.cc52431e719e48cb80fcbd61f2fb737d.js"
 );
 
 self.addEventListener('message', (event) => {
